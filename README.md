@@ -7,11 +7,17 @@
   ***GitHub***
   
  # Author
-  #### Github: [My Github](https://github.com/adarachel)
-  #### Twitter: [My Twitter](https://twitter.com/adarachel_dev)
+  #### Github: [github.com/adarachel](https://github.com/adarachel)
+  #### Twitter: [twitter.com/adarachel_dev](https://twitter.com/adarachel_dev)
   
  # Contributing
   ##### Contributions, issues and feature requests are welcome! 
   
  ## Show Your Support
   ###### Give a :star: if you like this project! 
+  
+ # Acknowledgements
+  ###### Microverse
+  
+ # License
+  ###### This project is [MIT](https://opensource.org/licenses/MIT) Licensed.
