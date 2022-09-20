@@ -3,3 +3,5 @@
 
 # does not ignore the README.md file
 !README.md
+
+git rm --cached /path/to/test.md
